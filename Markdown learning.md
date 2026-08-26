@@ -13,3 +13,6 @@ Nettside 1 leder til en tutorial for den beste README.md filen, den kan man bruk
 Nettside nummer 2 kan man bruke til å lage en "Cheatsheet" for Markdown syntax.
 
 ## Oppgave 3
+
+**Oppgaven krevde å lage en annen fil, her er den:**
+*[Brage text](Brage.md)*
