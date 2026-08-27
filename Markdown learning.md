@@ -27,10 +27,11 @@ Nettside nummer 2 kan man bruke til å lage en "Cheatsheet" for Markdown syntax.
 
 ## Oppgave 6
 
-'''
+``` python
 print ("Hello world")
-'''
+```
 
+## Oppgave 7
 
 
 
