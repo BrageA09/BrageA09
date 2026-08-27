@@ -2,6 +2,8 @@
 
 ## **Grønne oppgaver**
 
+---
+
 ### Oppgave 1
 
 #### Markdown Tutorial
@@ -57,6 +59,8 @@ I både Markdown of HTML brukes headers, da har man `h1` og helt til `h6`, disse
 ---
 
 ## **Gule oppgaver**
+
+---
 
 ### Oppgave 1
 
