@@ -62,5 +62,10 @@ I både Markdown of HTML brukes headers, da har man `h1` og helt til `h6`, disse
 
 | **Språk**   | **Python**  | **C++** | **JavaScript**  |
 | ----------- | ----------- | ------- | --------------- |
-|   Styrke    | Readability | Fast    | Compatability   |
-|   Svakhet   | Slow        | Complex | Debug not great |
+|   Strength  | Readability | Fast    | Compatability   |
+|   Weakness  | Slow        | Complex | Debug not great |
+
+---
+
+### Oppgave 2
+
