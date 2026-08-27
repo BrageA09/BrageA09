@@ -4,7 +4,8 @@
 
 > Jeg heter Brage og går på *Breivang VGS* der jeg studerer *IT*.
 > Jeg er 16 år gammel og ble født fjerde desember 2009.
-> Jeg valgte IT linjen for pengene
+> Jeg valgte IT linjen for pengene.
+> Jeg vil også studere, og har planer om en master i informatikk.
 
 ### **Hobbyer:**
 

@@ -16,3 +16,22 @@ Nettside nummer 2 kan man bruke til å lage en "Cheatsheet" for Markdown syntax.
 
 **Oppgaven krevde å lage en annen fil, her er den:**
 *[Brage text](Brage.md)*
+
+## Oppgave 4
+
+**[Ikke "klikk her"](https://dm.tools/tracker)**
+
+## Oppgave 5
+
+![Inspirasjon for det tyrkiske flagget, rød solar eclipse over fjell.](solarEclipse.png)
+
+## Oppgave 6
+
+'''
+print ("Hello world")
+'''
+
+
+
+
+
